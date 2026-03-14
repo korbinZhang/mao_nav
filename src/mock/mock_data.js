@@ -165,87 +165,45 @@ export const mockData = {
       "sites": [
         {
           "id": "site-32",
-          "name": "第1版前言 - 物联网前沿实践 - 清华大学 - 王继良",
-          "url": "https://iot-book.github.io/0_%E5%89%8D%E8%A8%801/%E7%89%A9%E8%81%94%E7%BD%91%E5%AF%BC%E8%AE%BA/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=iot-book.github.io"
+          "name": "物联网前沿实践",
+          "url": "https://iot-book.github.io/zh/",
+          "description": "物联网前沿实践 - 清华大学 - 王继良",
+          "icon": "https://iot-book.github.io/zh/images/nicon.png"
         },
         {
           "id": "site-33",
           "name": "卡尔曼滤波教程",
-          "url": "https://www.kalmanfilter.net/CN/default_cn.aspx",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=kalmanfilter.net"
-        },
-        {
-          "id": "site-34",
-          "name": "notes.pdf",
-          "url": "https://www.math.uci.edu/~ndonalds/math13/notes.pdf",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=math.uci.edu"
-        },
-        {
-          "id": "site-35",
-          "name": "6820519db1f84e7faaf51c573c48e013.pdf",
-          "url": "https://picture.iczhiku.com/resource/upload/6820519db1f84e7faaf51c573c48e013.pdf",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=picture.iczhiku.com"
+          "url": "https://kalmanfilter.net/",
+          "description": "卡尔曼滤波教程",
+          "icon": "https://www.faviconextractor.com/favicon/kalmanfilter.net"
         },
         {
           "id": "site-36",
-          "name": "The Newbies Guide to Crypto | Introduction |",
+          "name": "The Newbies Guide to Crypto",
           "url": "https://helpthisbook.com/sunny/the-newbies-guide-to-crypto",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=helpthisbook.com"
-        },
-        {
-          "id": "site-37",
-          "name": "HackTricks - HackTricks",
-          "url": "https://book.hacktricks.xyz/welcome/readme",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=book.hacktricks.xyz"
-        },
-        {
-          "id": "site-38",
-          "name": "Index of /Internet_WebBook",
-          "url": "http://www.tsnien.idv.tw/Internet_WebBook/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=tsnien.idv.tw"
-        },
-        {
-          "id": "site-39",
-          "name": "FreeRTOS - 适用于微控制器的开源软件 - FreeRTOS xTimerCreate() API 函数描述",
-          "url": "https://www.freertos.org/zh-cn-cmn-s/FreeRTOS-timers-xTimerCreate.html",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=freertos.org"
-        },
-        {
-          "id": "site-40",
-          "name": "Introduction to Compilers and Language Design",
-          "url": "https://www3.nd.edu/~dthain/compilerbook/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=www3.nd.edu"
-        },
-        {
-          "id": "site-41",
-          "name": "Learn C++ – Skill up with our free tutorials",
-          "url": "https://www.learncpp.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=learncpp.com"
+          "description": "加密货币新手指南",
+          "icon": "https://www.faviconextractor.com/favicon/helpthisbook.com"
         },
         {
           "id": "site-42",
           "name": "Makefile Tutorial By Example",
           "url": "https://makefiletutorial.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=makefiletutorial.com"
+          "description": "Makefile教程",
+          "icon": "https://www.faviconextractor.com/favicon/makefiletutorial.com"
         },
         {
           "id": "site-43",
-          "name": "看见统计 - 进阶概率论",
-          "url": "https://seeing-theory.brown.edu/compound-probability/cn.html",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=seeing-theory.brown.edu"
+          "name": "看见统计",
+          "url": "https://seeing-theory.brown.edu",
+          "description": "可视化概率论教程",
+          "icon": "https://www.faviconextractor.com/favicon/seeing-theory.brown.edu"
+        },
+        {
+          "id": "site-1773475754977",
+          "name": "Learn C++",
+          "url": "https://www.learncpp.com/",
+          "description": "C++在线教程",
+          "icon": "https://www.faviconextractor.com/favicon/www.learncpp.com"
         }
       ]
     },

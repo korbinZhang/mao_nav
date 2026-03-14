@@ -323,66 +323,45 @@ export const mockData = {
       "sites": [
         {
           "id": "site-68",
-          "name": "Tabler Icons: over 3400 vector icons for web design",
-          "url": "https://tabler-icons.io/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=tabler-icons.io"
+          "name": "Tabler Icons",
+          "url": "https://tabler-icons.io",
+          "description": "单色图标",
+          "icon": "https://www.faviconextractor.com/favicon/tabler-icons.io"
         },
         {
           "id": "site-69",
-          "name": "Iconbolt - 77,045 free vector icons at your fingertips",
-          "url": "https://www.iconbolt.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=iconbolt.com"
-        },
-        {
-          "id": "site-70",
-          "name": "Iconoir | Free Icons",
-          "url": "https://iconoir.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=iconoir.com"
+          "name": "Iconbolt",
+          "url": "https://www.iconbolt.com",
+          "description": "103,003 free vector icons",
+          "icon": "https://www.faviconextractor.com/favicon/www.iconbolt.com"
         },
         {
           "id": "site-71",
           "name": "ご利用について",
-          "url": "https://dotown.maeda-design-room.net/term-of-use/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=dotown.maeda-design-room.net"
+          "url": "https://dotown.maeda-design-room.net",
+          "description": "像素图标",
+          "icon": "https://www.faviconextractor.com/favicon/dotown.maeda-design-room.net"
         },
         {
           "id": "site-72",
-          "name": "Free SVG Image & Icon. | SVG Silh",
-          "url": "https://svgsilh.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=svgsilh.com"
-        },
-        {
-          "id": "site-73",
-          "name": "Iconic — Free “do wtf you want with” pixel-perfect icons",
-          "url": "https://iconic.app/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=iconic.app"
+          "name": "Free SVG Image",
+          "url": "https://svgsilh.com",
+          "description": "透明图片",
+          "icon": "https://www.faviconextractor.com/favicon/svgsilh.com"
         },
         {
           "id": "site-74",
-          "name": "🤣 Emoji表情大全，颜文字百科 💌 - EmojiXD",
+          "name": "EmojiXD",
           "url": "https://emojixd.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=emojixd.com"
+          "description": "🤣 Emoji表情大全，颜文字百科 💌",
+          "icon": "https://www.faviconextractor.com/favicon/emojixd.com"
         },
         {
           "id": "site-75",
-          "name": "Iconbuddy — 180K+ open source icons",
-          "url": "https://iconbuddy.app/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=iconbuddy.app"
-        },
-        {
-          "id": "site-76",
-          "name": "Font Awesome",
-          "url": "https://fontawesome.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=fontawesome.com"
+          "name": "Iconbuddy",
+          "url": "https://iconbuddy.app",
+          "description": "180K+ open source icons",
+          "icon": "https://www.faviconextractor.com/favicon/iconbuddy.app"
         }
       ]
     },

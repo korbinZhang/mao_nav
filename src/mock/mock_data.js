@@ -212,36 +212,7 @@ export const mockData = {
       "name": "磁力链接",
       "icon": "🧲",
       "order": 4,
-      "sites": [
-        {
-          "id": "site-44",
-          "name": "Download music, movies, games, software! The Pirate Bay - The galaxy's most resilient BitTorrent site",
-          "url": "https://thepiratebay10.org/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=thepiratebay10.org"
-        },
-        {
-          "id": "site-45",
-          "name": "2023年日本喜剧片《G男》BD日语中字迅雷下载_电影天堂",
-          "url": "https://www.dytt89.com/i/110781.html",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=dytt89.com"
-        },
-        {
-          "id": "site-46",
-          "name": "2024国产悬疑古装剧《墨雨云间》更新至09集迅雷下载/bt磁力链下载_MP4电影",
-          "url": "https://www.hdmp4.cc/detail/43212.html",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=hdmp4.cc"
-        },
-        {
-          "id": "site-47",
-          "name": "The Pirate Bay - The galaxy's most resilient bittorrent site",
-          "url": "https://thepiratebay.org/top.php",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=thepiratebay.org"
-        }
-      ]
+      "sites": []
     },
     {
       "id": "category-5",
@@ -291,36 +262,7 @@ export const mockData = {
       "name": "声音收集",
       "icon": "🎵",
       "order": 6,
-      "sites": [
-        {
-          "id": "site-53",
-          "name": "搜索 - MYFREEMP3 - 無料音楽ダウンロード - 무료 음악 다운로드 - Free Mp3 Download",
-          "url": "http://tools.liumingye.cn/music/?page=searchPage",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=tools.liumingye.cn"
-        },
-        {
-          "id": "site-54",
-          "name": "Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine",
-          "url": "https://archive.org/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=archive.org"
-        },
-        {
-          "id": "site-55",
-          "name": "Get started | Learning Synths",
-          "url": "https://learningsynths.ableton.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=learningsynths.ableton.com"
-        },
-        {
-          "id": "site-56",
-          "name": "让声音做变化 | Learning Synths",
-          "url": "https://learningsynths.ableton.com/zh-Hans/making-changes/pitch",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=learningsynths.ableton.com"
-        }
-      ]
+      "sites": []
     },
     {
       "id": "category-7",
@@ -330,52 +272,24 @@ export const mockData = {
       "sites": [
         {
           "id": "site-57",
-          "name": "無料で商用可のフリーイラスト素材｜Loose Drawing",
+          "name": "图片",
           "url": "https://loosedrawing.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=loosedrawing.com"
-        },
-        {
-          "id": "site-58",
-          "name": "Openly Licensed Images, Audio and More | Openverse",
-          "url": "https://wordpress.org/openverse/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=wordpress.org"
-        },
-        {
-          "id": "site-59",
-          "name": "The Wall",
-          "url": "https://earth2day.com/TheWall/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=earth2day.com"
-        },
-        {
-          "id": "site-60",
-          "name": "Vave BG - Unsplash but for background",
-          "url": "https://vavebg.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=vavebg.com"
+          "description": "贴纸类图片",
+          "icon": "https://www.faviconextractor.com/favicon/loosedrawing.com"
         },
         {
           "id": "site-61",
           "name": "免费素材图片",
           "url": "https://www.pexels.com/zh-cn/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=pexels.com"
+          "description": "摄影图片",
+          "icon": "https://www.faviconextractor.com/favicon/www.pexels.com"
         },
         {
           "id": "site-62",
-          "name": "StockCake: Captivating Free Images for Every Occasion",
+          "name": "StockCake",
           "url": "https://stockcake.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=stockcake.com"
-        },
-        {
-          "id": "site-63",
-          "name": "wallpaper hi res widescreen - e621",
-          "url": "https://e621.net/posts?tags=wallpaper++hi_res+widescreen",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=e621.net"
+          "description": "各种图片",
+          "icon": "https://www.faviconextractor.com/favicon/stockcake.com"
         }
       ]
     },
@@ -386,32 +300,18 @@ export const mockData = {
       "order": 8,
       "sites": [
         {
-          "id": "site-64",
-          "name": "My Room in 3D",
-          "url": "https://my-room-in-3d.vercel.app/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=my-room-in-3d.vercel.app"
-        },
-        {
           "id": "site-65",
           "name": "jim-fx's | Plantarium",
           "url": "https://plant.max-richter.dev/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=plant.max-richter.dev"
-        },
-        {
-          "id": "site-66",
-          "name": "Free Premium Mockups - Instant Download - Mockups-Design.com",
-          "url": "https://mockups-design.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=mockups-design.com"
+          "description": "各种植物的3D模型",
+          "icon": "https://www.faviconextractor.com/favicon/plant.max-richter.dev"
         },
         {
           "id": "site-67",
-          "name": "Cyber - 3D Experiences to show your NFTs",
+          "name": "Cyber",
           "url": "https://oncyber.io/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=oncyber.io"
+          "description": "在线3D世界",
+          "icon": "https://www.faviconextractor.com/favicon/oncyber.io"
         }
       ]
     },

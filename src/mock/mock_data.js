@@ -86,66 +86,31 @@ export const mockData = {
       "sites": [
         {
           "id": "site-16",
-          "name": "» RFC Editor",
+          "name": "RFC",
           "url": "https://www.rfc-editor.org/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=rfc-editor.org"
-        },
-        {
-          "id": "site-17",
-          "name": "首页-图灵社区",
-          "url": "https://www.ituring.com.cn/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=ituring.com.cn"
-        },
-        {
-          "id": "site-18",
-          "name": "数字图书馆。搜索书籍。免费下载书籍",
-          "url": "https://zh.b-ok.global/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=zh.b-ok.global"
+          "description": "RFC",
+          "icon": "https://www.faviconextractor.com/favicon/www.rfc-editor.org"
         },
         {
           "id": "site-19",
           "name": "中国哲学书电子化计划",
           "url": "https://ctext.org/zhs",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=ctext.org"
+          "description": "中国哲学书线上图书馆",
+          "icon": "https://www.faviconextractor.com/favicon/ctext.org"
         },
         {
           "id": "site-20",
           "name": "书格",
           "url": "https://new.shuge.org/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=new.shuge.org"
-        },
-        {
-          "id": "site-21",
-          "name": "Internet Archive: Digital Library of Free & Borrowable Books, Movies, Music & Wayback Machine",
-          "url": "https://archive.org/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=archive.org"
-        },
-        {
-          "id": "site-22",
-          "name": "高校与公共图书馆导航 | 数字生活指南",
-          "url": "https://nav.guidebook.top/libs",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=nav.guidebook.top"
+          "description": "有品格的数字图书馆",
+          "icon": "https://www.faviconextractor.com/favicon/new.shuge.org"
         },
         {
           "id": "site-23",
           "name": "Free eBooks | Project Gutenberg",
           "url": "https://www.gutenberg.org/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=gutenberg.org"
-        },
-        {
-          "id": "site-24",
-          "name": "汇书网 -pdf,txt,mobi,azw3,epub 把时间交给阅读",
-          "url": "https://www.huibooks.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=huibooks.com"
+          "description": "免费英文书籍",
+          "icon": "https://www.faviconextractor.com/favicon/www.gutenberg.org"
         }
       ]
     },

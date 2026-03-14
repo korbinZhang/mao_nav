@@ -124,50 +124,36 @@ export const mockData = {
           "id": "site-25",
           "name": "Web Browser Engineering",
           "url": "https://browser.engineering/index.html",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=browser.engineering"
-        },
-        {
-          "id": "site-26",
-          "name": "Docs4dev",
-          "url": "https://www.docs4dev.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=docs4dev.com"
+          "description": "从头构建一个web浏览器",
+          "icon": "https://www.faviconextractor.com/favicon/browser.engineering"
         },
         {
           "id": "site-27",
-          "name": "SQLBolt - Learn SQL - Introduction to SQL",
+          "name": "SQLBol",
           "url": "https://sqlbolt.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=sqlbolt.com"
+          "description": "Learn SQL",
+          "icon": "https://www.faviconextractor.com/favicon/sqlbolt.com"
         },
         {
           "id": "site-28",
-          "name": "diveintosystems.org",
-          "url": "https://diveintosystems.org/book/index.html",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=diveintosystems.org"
+          "name": "Dive into Systems",
+          "url": "https://diveintosystems.org",
+          "description": "深入理解操作系统在线",
+          "icon": "https://www.faviconextractor.com/favicon/diveintosystems.org"
         },
         {
           "id": "site-29",
-          "name": "Effective Shell | Effective Shell",
+          "name": "Effective Shell",
           "url": "https://effective-shell.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=effective-shell.com"
+          "description": "Shell 在线教程",
+          "icon": "https://www.faviconextractor.com/favicon/effective-shell.com"
         },
         {
           "id": "site-30",
-          "name": "Top (Using the GNU Compiler Collection (GCC))",
-          "url": "https://gcc.gnu.org/onlinedocs/gcc-12.2.0/gcc/#toc-Programming-Languages-Supported-by-GCC",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=gcc.gnu.org"
-        },
-        {
-          "id": "site-31",
-          "name": "HackTricks - HackTricks",
-          "url": "https://book.hacktricks.xyz/welcome/readme",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=book.hacktricks.xyz"
+          "name": "GNU GCC",
+          "url": "https://gcc.gnu.org",
+          "description": "GNU gcc 在线文档",
+          "icon": "https://www.faviconextractor.com/favicon/gcc.gnu.org"
         }
       ]
     },

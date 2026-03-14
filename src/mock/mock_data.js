@@ -10,7 +10,7 @@ export const mockData = {
           "id": "site-0",
           "name": "1000UserGuide",
           "url": "https://1000userguide.com",
-          "description": "本手册旨在为开发者提供一个全面的获客资源，列出国内外适合独立开发者和创业者早期产品启动的曝光渠道。通过利用这些渠道，你可以有效地推广你的产品，接触目标受众，并找到你的第一批1000个用户.",
+          "description": "导航站点",
           "icon": "https://www.faviconextractor.com/favicon/1000userguide.com"
         },
         {
@@ -24,21 +24,21 @@ export const mockData = {
           "id": "site-3",
           "name": "JRMF",
           "url": "https://jrmf.org",
-          "description": "朱莉娅·罗宾逊数学节通过举办数学节，帮助学生在数学方面建立信心、快乐感和归属感。",
+          "description": "关于数学游戏",
           "icon": "https://www.faviconextractor.com/favicon/jrmf.org"
         },
         {
           "id": "site-4",
           "name": "Watching the World",
           "url": "https://webcamaze.engineering.zhaw.ch",
-          "description": "一个关于摄影、人工智能、大数据、开放数据、闭路电视、监控、瞬间与整个世界的项目。",
+          "description": "监控视频",
           "icon": "https://www.faviconextractor.com/favicon/webcamaze.engineering.zhaw.ch"
         },
         {
           "id": "site-5",
           "name": "清华大学开源软件镜像站",
           "url": "https://mirrors.tuna.tsinghua.edu.cn",
-          "description": "清华大学开源软件镜像站，致力于为国内和校内用户提供高质量的开源软件镜像、Linux 镜像源服务，帮助用户更方便地获取开源软件。本镜像站由清华大学 TUNA 协会负责运行维护。",
+          "description": "清华大学开源软件镜像站",
           "icon": "https://mirrors.tuna.tsinghua.edu.cn/static/img/favicon.png"
         },
         {
@@ -66,14 +66,14 @@ export const mockData = {
           "id": "site-11",
           "name": "RoutineHub",
           "url": "https://routinehub.co",
-          "description": "一款iOS捷径仓库，收录了非常多的捷径。包含图书、商业、开发工具、教育、娱乐、金融、游戏等多个分类。可以根据分类进行查找，也可以通过应用查找某款应用的捷径资源。",
+          "description": "iOS捷径仓库，包含图书、开发工具、教育等多个分类",
           "icon": "https://www.faviconextractor.com/favicon/routinehub.co"
         },
         {
           "id": "site-14",
           "name": "PNG 透明背景",
           "url": "https://pngfree.ai/",
-          "description": "提供海量高质量的 PNG 素材，满足你所有的创意需求。全部免费下载，轻松方便。",
+          "description": "提供海量高质量的 PNG 素材",
           "icon": "https://pngfree.ai/images/favicon.png"
         }
       ]
@@ -84,13 +84,6 @@ export const mockData = {
       "icon": "🔍",
       "order": 1,
       "sites": [
-        {
-          "id": "site-15",
-          "name": "Shared Decks - AnkiWeb",
-          "url": "https://ankiweb.net/shared/decks",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=ankiweb.net"
-        },
         {
           "id": "site-16",
           "name": "» RFC Editor",

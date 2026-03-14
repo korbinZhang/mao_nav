@@ -66,7 +66,7 @@ export const mockData = {
           "id": "site-11",
           "name": "RoutineHub",
           "url": "https://routinehub.co",
-          "description": "iOS捷径仓库，包含图书、开发工具、教育等多个分类",
+          "description": "iOS捷径仓库",
           "icon": "https://www.faviconextractor.com/favicon/routinehub.co"
         },
         {

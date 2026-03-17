@@ -499,15 +499,7 @@ export const mockData = {
       "name": "医疗",
       "icon": "🏥",
       "order": 16,
-      "sites": [
-        {
-          "id": "site-98",
-          "name": "1型糖尿病 :: Diabetes Education Online",
-          "url": "https://dtc.ucsf.edu/zh-hans/%e7%b3%96%e5%b0%bf%e7%97%85%e5%88%86%e5%9e%8b/1%e5%9e%8b%e7%b3%96%e5%b0%bf%e7%97%85/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=dtc.ucsf.edu"
-        }
-      ]
+      "sites": []
     },
     {
       "id": "category-17",

@@ -366,45 +366,52 @@ export const mockData = {
       "sites": [
         {
           "id": "site-77",
-          "name": "Lexica",
-          "url": "https://lexica.art",
+          "name": "Lexica – beautifule",
+          "url": "https://lexica.art/?q=beautifule",
           "description": "",
-          "icon": "https://www.faviconextractor.com/favicon/lexica.art"
+          "icon": "https://www.google.com/s2/favicons?domain=lexica.art"
         },
         {
           "id": "site-78",
-          "name": "Wallpaper Abyss",
-          "url": "https://wall.alphacoders.com",
-          "description": "壁纸",
-          "icon": "https://www.faviconextractor.com/favicon/wall.alphacoders.com"
+          "name": "Wallpaper Abyss - HD Wallpapers, Background Images",
+          "url": "https://wall.alphacoders.com/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=wall.alphacoders.com"
         },
         {
           "id": "site-79",
-          "name": "Anime",
+          "name": "Anime image and pictures. Desktop and mobile wallpaper.",
           "url": "https://anime.goodfon.com/",
-          "description": "壁纸",
-          "icon": "https://www.faviconextractor.com/favicon/anime.goodfon.com"
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=anime.goodfon.com"
         },
         {
           "id": "site-80",
-          "name": "Images",
-          "url": "https://esahubble.org",
-          "description": "宇宙图片",
-          "icon": "https://www.faviconextractor.com/favicon/esahubble.org"
+          "name": "Images | ESA/Hubble",
+          "url": "https://esahubble.org/images/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=esahubble.org"
         },
         {
           "id": "site-81",
-          "name": "wallhaven.cc",
-          "url": "https://wallhaven.cc",
-          "description": "壁纸",
-          "icon": "https://www.faviconextractor.com/favicon/wallhaven.cc"
+          "name": "Awesome Wallpapers - wallhaven.cc",
+          "url": "https://wallhaven.cc/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=wallhaven.cc"
         },
         {
           "id": "site-82",
-          "name": "unsplash",
-          "url": "https://unsplash.com",
-          "description": "壁纸",
-          "icon": "https://www.faviconextractor.com/favicon/unsplash.com"
+          "name": "Beautiful Free Images & Pictures | Unsplash",
+          "url": "https://unsplash.com/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=unsplash.com"
+        },
+        {
+          "id": "site-83",
+          "name": "e621",
+          "url": "https://e621.net/",
+          "description": "",
+          "icon": "https://www.google.com/s2/favicons?domain=e621.net"
         }
       ]
     },
@@ -417,37 +424,37 @@ export const mockData = {
         {
           "id": "site-84",
           "name": "国家标准全文公开",
-          "url": "http://openstd.samr.gov.cn/bzgk/gb/index",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=openstd.samr.gov.cn"
+          "url": "http://openstd.samr.gov.cn",
+          "description": "国家标准全文公开",
+          "icon": "https://www.faviconextractor.com/favicon/openstd.samr.gov.cn"
         },
         {
           "id": "site-85",
-          "name": "NVD - Home",
-          "url": "https://nvd.nist.gov/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=nvd.nist.gov"
+          "name": "NVD",
+          "url": "https://nvd.nist.gov",
+          "description": "漏洞管理数据的存储库",
+          "icon": "https://www.faviconextractor.com/favicon/nvd.nist.gov"
         },
         {
           "id": "site-86",
-          "name": "设置 - 元素周期表PRO 高颜值化学必备小工具",
-          "url": "https://pt.ziziyi.com/setting",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=pt.ziziyi.com"
+          "name": "元素周期表",
+          "url": "https://pt.ziziyi.com",
+          "description": "元素周期表",
+          "icon": "https://www.faviconextractor.com/favicon/pt.ziziyi.com"
         },
         {
           "id": "site-87",
           "name": "Learn These Words First",
-          "url": "https://learnthesewordsfirst.com/LearnTheseWordsFirst.html#Lesson1",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=learnthesewordsfirst.com"
+          "url": "https://learnthesewordsfirst.com",
+          "description": "基础英文单词",
+          "icon": "https://www.faviconextractor.com/favicon/learnthesewordsfirst.com"
         },
         {
           "id": "site-88",
           "name": "oPhysics",
-          "url": "https://ophysics.com/k.html",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=ophysics.com"
+          "url": "https://ophysics.com",
+          "description": "互动物理模拟的集合",
+          "icon": "https://www.faviconextractor.com/favicon/ophysics.com"
         }
       ]
     },

@@ -43,7 +43,7 @@ export const mockData = {
         },
         {
           "id": "site-6",
-          "name": "Operating Systems: Three Easy Pieces",
+          "name": "Operating Systems",
           "url": "https://pages.cs.wisc.edu/~remzi/OSTEP/",
           "description": "关于操作系统的大学教材",
           "icon": "https://pages.cs.wisc.edu/~remzi/OSTEP/book-cover-two.jpg"

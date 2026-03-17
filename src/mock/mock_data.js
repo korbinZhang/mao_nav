@@ -553,44 +553,30 @@ export const mockData = {
         {
           "id": "site-107",
           "name": "satellite-track",
-          "url": "https://jiangteng2019.github.io/satellite-track/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=jiangteng2019.github.io"
+          "url": "https://jiangteng2019.github.io/satellite-track",
+          "description": "追踪卫星轨道",
+          "icon": "https://www.faviconextractor.com/favicon/jiangteng2019.github.io"
         },
         {
           "id": "site-108",
           "name": "HE 3D Network Map",
-          "url": "https://he.net/3d-map/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=he.net"
-        },
-        {
-          "id": "site-109",
-          "name": "Low Earth Orbit Visualization | LeoLabs",
-          "url": "https://platform.leolabs.space/visualization",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=platform.leolabs.space"
+          "url": "https://he.net/3d-map",
+          "description": "网络流量",
+          "icon": "https://www.faviconextractor.com/favicon/he.net"
         },
         {
           "id": "site-110",
           "name": "100,000 Stars",
-          "url": "http://stars.chromeexperiments.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=stars.chromeexperiments.com"
-        },
-        {
-          "id": "site-111",
-          "name": "The Wall",
-          "url": "https://earth2day.com/TheWall/TheWall36h.html",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=earth2day.com"
+          "url": "http://stars.chromeexperiments.com",
+          "description": "宇宙星空",
+          "icon": "https://www.faviconextractor.com/favicon/stars.chromeexperiments.com"
         },
         {
           "id": "site-112",
-          "name": "Live Starlink Satellite and Coverage Map",
-          "url": "https://satellitemap.space/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=satellitemap.space"
+          "name": "satellitemap",
+          "url": "https://satellitemap.space",
+          "description": "实时卫星",
+          "icon": "https://www.faviconextractor.com/favicon/satellitemap.space"
         }
       ]
     },

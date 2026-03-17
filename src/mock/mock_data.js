@@ -208,13 +208,6 @@ export const mockData = {
       ]
     },
     {
-      "id": "category-4",
-      "name": "磁力链接",
-      "icon": "🧲",
-      "order": 4,
-      "sites": []
-    },
-    {
       "id": "category-5",
       "name": "有趣游戏",
       "icon": "🎮",
@@ -249,13 +242,6 @@ export const mockData = {
           "icon": "https://www.google.com/s2/favicons?domain=cn.puzzle-bridges.com"
         }
       ]
-    },
-    {
-      "id": "category-6",
-      "name": "声音收集",
-      "icon": "🎵",
-      "order": 6,
-      "sites": []
     },
     {
       "id": "category-7",
@@ -459,27 +445,6 @@ export const mockData = {
       ]
     },
     {
-      "id": "category-12",
-      "name": "水表资料",
-      "icon": "💧",
-      "order": 12,
-      "sites": []
-    },
-    {
-      "id": "category-13",
-      "name": "比特币",
-      "icon": "₿",
-      "order": 13,
-      "sites": []
-    },
-    {
-      "id": "category-14",
-      "name": "材料",
-      "icon": "🧪",
-      "order": 14,
-      "sites": []
-    },
-    {
       "id": "category-15",
       "name": "美食",
       "icon": "🍲",
@@ -516,7 +481,7 @@ export const mockData = {
         },
         {
           "id": "site-100",
-          "name": "2.1. Vivado Project — 802.11 MAC/PHY User Guide documentation",
+          "name": "Vivado Project",
           "url": "https://support.mangocomm.com/docs/wlan-user-guide/usage/vivado_project.html",
           "description": "802.11 MAC/PHY硬件设计",
           "icon": "https://www.faviconextractor.com/favicon/support.mangocomm.com"
@@ -588,17 +553,10 @@ export const mockData = {
       "sites": [
         {
           "id": "site-113",
-          "name": "rougier/numpy-100: 100 numpy exercises (with solutions)",
+          "name": "numpy-100",
           "url": "https://github.com/rougier/numpy-100",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=github.com"
-        },
-        {
-          "id": "site-114",
-          "name": "强化学习100题",
-          "url": "https://p100.koki-saitoh.com/zh-CN",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=p100.koki-saitoh.com"
+          "description": "100道numpy练习题",
+          "icon": "https://www.faviconextractor.com/favicon/github.com"
         }
       ]
     },
@@ -610,24 +568,24 @@ export const mockData = {
       "sites": [
         {
           "id": "site-115",
-          "name": "Models - Hugging Face",
-          "url": "https://huggingface.co/models?pipeline_tag=text-to-speech&sort=trending",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=huggingface.co"
+          "name": "Hugging Face",
+          "url": "https://huggingface.co",
+          "description": "Hugging Face",
+          "icon": "https://www.faviconextractor.com/favicon/huggingface.co"
         },
         {
           "id": "site-116",
-          "name": "首页_AI导航",
-          "url": "https://ai.dreamthere.cn/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=ai.dreamthere.cn"
+          "name": "AI导航",
+          "url": "https://ai.dreamthere.cn",
+          "description": "导航站",
+          "icon": "https://www.faviconextractor.com/favicon/ai.dreamthere.cn"
         },
         {
           "id": "site-117",
           "name": "LLM Visualization",
           "url": "https://bbycroft.net/llm",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=bbycroft.net"
+          "description": "大模型可视化",
+          "icon": "https://www.faviconextractor.com/favicon/bbycroft.net"
         }
       ]
     },

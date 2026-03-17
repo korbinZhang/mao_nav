@@ -463,80 +463,21 @@ export const mockData = {
       "name": "水表资料",
       "icon": "💧",
       "order": 12,
-      "sites": [
-        {
-          "id": "site-89",
-          "name": "TDC-GP30相关资料下载",
-          "url": "https://www.pmt-fl.com/pmt-downloads",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=pmt-fl.com"
-        },
-        {
-          "id": "site-90",
-          "name": "TDC-GP30 Ultrasonic Flow Converter - ScioSense.",
-          "url": "https://www.sciosense.com/products/ultrasonic-flow-converters/tdc-gp30-ultrasonic-flow-converter/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=sciosense.com"
-        },
-        {
-          "id": "site-91",
-          "name": "投资者关系 | ams OSRAM",
-          "url": "https://ams-osram.com/zh/investor-relations",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=ams-osram.com"
-        },
-        {
-          "id": "site-92",
-          "name": "COMSOL Multiphysics® 软件 - 理解、预测和优化",
-          "url": "https://cn.comsol.com/comsol-multiphysics",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=cn.comsol.com"
-        }
-      ]
+      "sites": []
     },
     {
       "id": "category-13",
       "name": "比特币",
       "icon": "₿",
       "order": 13,
-      "sites": [
-        {
-          "id": "site-93",
-          "name": "BTC.com - Wallet for Bitcoin and Bitcoin Cash",
-          "url": "https://wallet.btc.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=wallet.btc.com"
-        },
-        {
-          "id": "site-94",
-          "name": "FreeBitco.in - Bitcoin, Bitcoin Price, Free Bitcoin Wallet, Faucet, Lottery and Dice!",
-          "url": "https://freebitco.in/?op=signup_page",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=freebitco.in"
-        },
-        {
-          "id": "site-95",
-          "name": "Wallets",
-          "url": "https://www.nicehash.com/my/wallets/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=nicehash.com"
-        }
-      ]
+      "sites": []
     },
     {
       "id": "category-14",
       "name": "材料",
       "icon": "🧪",
       "order": 14,
-      "sites": [
-        {
-          "id": "site-96",
-          "name": "压电陶瓷的特点与压电效应 - HCSONIC 杭州嘉振超声",
-          "url": "https://www.made-in-hc.com/faq/ceramics1",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=made-in-hc.com"
-        }
-      ]
+      "sites": []
     },
     {
       "id": "category-15",
@@ -546,10 +487,10 @@ export const mockData = {
       "sites": [
         {
           "id": "site-97",
-          "name": "美食天下_原创菜谱与美食生活社区，我所有的朋友都是吃货！",
-          "url": "https://www.meishichina.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=meishichina.com"
+          "name": "美食天下",
+          "url": "https://www.meishichina.com",
+          "description": "美食天下",
+          "icon": "https://www.faviconextractor.com/favicon/www.meishichina.com"
         }
       ]
     },

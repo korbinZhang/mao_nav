@@ -648,31 +648,17 @@ export const mockData = {
       "sites": [
         {
           "id": "site-137",
-          "name": "IT Tools - Handy online tools for developers",
-          "url": "https://it-tools.tech/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=it-tools.tech"
-        },
-        {
-          "id": "site-138",
-          "name": "Nginx Proxy Manager",
-          "url": "https://nginxproxymanager.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=nginxproxymanager.com"
-        },
-        {
-          "id": "site-139",
-          "name": "pyright/configuration.md at main · microsoft/pyright",
-          "url": "https://github.com/microsoft/pyright/blob/main/docs/configuration.md",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=github.com"
+          "name": "IT Tools",
+          "url": "https://it-tools.tech",
+          "description": "在线工具箱",
+          "icon": "https://www.faviconextractor.com/favicon/it-tools.tech"
         },
         {
           "id": "site-140",
           "name": "D2 Playground",
-          "url": "https://play.d2lang.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=play.d2lang.com"
+          "url": "https://play.d2lang.com",
+          "description": "D2 Playground",
+          "icon": "https://www.faviconextractor.com/favicon/play.d2lang.com"
         }
       ]
     },

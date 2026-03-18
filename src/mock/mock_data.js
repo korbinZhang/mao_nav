@@ -221,13 +221,6 @@ export const mockData = {
           "icon": "https://www.faviconextractor.com/favicon/opengameart.org"
         },
         {
-          "id": "site-51",
-          "name": "https://www.gameuidatabase.com",
-          "url": "https://www.gameuidatabase.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=gameuidatabase.com"
-        },
-        {
           "id": "site-50",
           "name": "小霸王",
           "url": "https://www.yikm.net",
@@ -236,10 +229,10 @@ export const mockData = {
         },
         {
           "id": "site-52",
-          "name": "搭桥 - 在线解谜游戏",
-          "url": "https://cn.puzzle-bridges.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=cn.puzzle-bridges.com"
+          "name": "搭桥",
+          "url": "https://cn.puzzle-bridges.com",
+          "description": "在线解谜游戏",
+          "icon": "https://cn.puzzle-bridges.com/favicon.ico"
         }
       ]
     },

@@ -707,58 +707,58 @@ export const mockData = {
         {
           "id": "site-145",
           "name": "ProofWiki",
-          "url": "https://proofwiki.org/wiki/Main_Page",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=proofwiki.org"
+          "url": "https://proofwiki.org",
+          "description": "在线数学证明宝库",
+          "icon": "https://www.faviconextractor.com/favicon/proofwiki.org"
         },
         {
           "id": "site-146",
           "name": "矩阵计算器",
-          "url": "https://matrixcalc.org/zh-CN/#2*%7B%7B1,0,0%7D,%7B0,2,0%7D,%7B0,0,3%7D%7D",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=matrixcalc.org"
+          "url": "https://matrixcalc.org",
+          "description": "在线矩阵计算器",
+          "icon": "https://www.faviconextractor.com/favicon/matrixcalc.org"
         },
         {
           "id": "site-147",
-          "name": "Desmos | 图形计算器",
-          "url": "https://www.desmos.com/calculator?lang=zh-CN",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=desmos.com"
+          "name": "Desmos",
+          "url": "https://www.desmos.com",
+          "description": "图形计算器",
+          "icon": "https://www.faviconextractor.com/favicon/www.desmos.com"
         },
         {
           "id": "site-148",
-          "name": "在线LaTeX公式编辑器-妈叔出品",
-          "url": "https://www.latexlive.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=latexlive.com"
+          "name": "LaTeX公式编辑器",
+          "url": "https://www.latexlive.com",
+          "description": "在线LaTeX公式编辑器",
+          "icon": "https://www.faviconextractor.com/favicon/www.latexlive.com"
         },
         {
           "id": "site-149",
-          "name": "mathlets.org",
-          "url": "https://mathlets.org/mathlets/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=mathlets.org"
+          "name": "Mathlets",
+          "url": "https://mathlets.org",
+          "description": "一套精心设计、高度互动的 Javascript 小程序",
+          "icon": "https://www.faviconextractor.com/favicon/mathlets.org"
         },
         {
           "id": "site-150",
-          "name": "数字帝国 - 数学工具",
-          "url": "https://zh.numberempire.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=zh.numberempire.com"
+          "name": "数字帝国",
+          "url": "https://zh.numberempire.com",
+          "description": "数学工具",
+          "icon": "https://www.faviconextractor.com/favicon/zh.numberempire.com"
         },
         {
           "id": "site-151",
-          "name": "Octave Online · Cloud IDE compatible with MATLAB",
-          "url": "https://octave-online.net/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=octave-online.net"
+          "name": "Octave Online",
+          "url": "https://octave-online.net",
+          "description": "Cloud IDE compatible with MATLAB",
+          "icon": "https://www.faviconextractor.com/favicon/octave-online.net"
         },
         {
           "id": "site-152",
           "name": "oPhysics",
           "url": "https://ophysics.com/index.html",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=ophysics.com"
+          "description": "互动物理模拟的集合",
+          "icon": "https://www.faviconextractor.com/favicon/ophysics.com"
         }
       ]
     },

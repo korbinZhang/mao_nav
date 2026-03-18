@@ -670,31 +670,31 @@ export const mockData = {
       "sites": [
         {
           "id": "site-141",
-          "name": "The-X 在线工具箱 Base64 解码 AES RAS 解码 加密",
-          "url": "https://the-x.cn/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=the-x.cn"
+          "name": "The-X",
+          "url": "https://the-x.cn",
+          "description": "Base64 解码 AES RAS 解码 加密",
+          "icon": "https://www.faviconextractor.com/favicon/the-x.cn"
         },
         {
           "id": "site-142",
           "name": "CyberChef",
-          "url": "https://gchq.github.io/CyberChef/#input=a2tra2traw",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=gchq.github.io"
+          "url": "https://gchq.github.io/CyberChef",
+          "description": "CyberChef",
+          "icon": "https://www.faviconextractor.com/favicon/gchq.github.io"
         },
         {
           "id": "site-143",
-          "name": "二维码在线生成器 · 二维码 API 在线使用 · 开发者工具箱",
-          "url": "https://devtool.tech/qrcode",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=devtool.tech"
+          "name": "开发者工具箱",
+          "url": "https://devtool.tech",
+          "description": "开发者工具箱",
+          "icon": "https://www.faviconextractor.com/favicon/devtool.tech"
         },
         {
           "id": "site-144",
-          "name": "CTFever Toolkit by uniiem",
-          "url": "https://ctfever.uniiem.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=ctfever.uniiem.com"
+          "name": "CTFever",
+          "url": "https://ctfever.uniiem.com",
+          "description": "CTFever",
+          "icon": "https://www.faviconextractor.com/favicon/ctfever.uniiem.com"
         }
       ]
     },

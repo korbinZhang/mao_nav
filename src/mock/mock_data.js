@@ -958,21 +958,6 @@ export const mockData = {
       ]
     },
     {
-      "id": "category-33",
-      "name": "游戏",
-      "icon": "🎮",
-      "order": 33,
-      "sites": [
-        {
-          "id": "site-174",
-          "name": "原神地图工具-全资源互动地图-光环助手",
-          "url": "https://static-web.ghzs.com/cspage_pro/yuanshenMap.html#/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=static-web.ghzs.com"
-        }
-      ]
-    },
-    {
       "id": "category-34",
       "name": "临时",
       "icon": "⏳",

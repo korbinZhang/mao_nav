@@ -446,13 +446,6 @@ export const mockData = {
       ]
     },
     {
-      "id": "category-16",
-      "name": "医疗",
-      "icon": "🏥",
-      "order": 16,
-      "sites": []
-    },
-    {
       "id": "category-17",
       "name": "千奇百怪",
       "icon": "🤔",
@@ -580,29 +573,7 @@ export const mockData = {
       "name": "影视资源",
       "icon": "🎬",
       "order": 21,
-      "sites": [
-        {
-          "id": "site-118",
-          "name": "字幕库(zimuku.la) -- 字幕下载网站",
-          "url": "http://www.zimuku.la/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=zimuku.la"
-        },
-        {
-          "id": "site-119",
-          "name": "全球高清实况摄像头！ - SkylineWebcams",
-          "url": "https://www.skylinewebcams.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=skylinewebcams.com"
-        },
-        {
-          "id": "site-120",
-          "name": "登录 | BTNULL 无名小站",
-          "url": "https://www.btnull.org/user/login/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=btnull.org"
-        }
-      ]
+      "sites": []
     },
     {
       "id": "category-22",

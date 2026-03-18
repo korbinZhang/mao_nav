@@ -569,13 +569,6 @@ export const mockData = {
       ]
     },
     {
-      "id": "category-21",
-      "name": "影视资源",
-      "icon": "🎬",
-      "order": 21,
-      "sites": []
-    },
-    {
       "id": "category-22",
       "name": "公共API",
       "icon": "🔌",
@@ -583,10 +576,10 @@ export const mockData = {
       "sites": [
         {
           "id": "site-121",
-          "name": "Apivault - Your gateway to a world of public APIs.",
-          "url": "https://apivault.dev/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=apivault.dev"
+          "name": "Apivault",
+          "url": "https://apivault.dev",
+          "description": "公共API",
+          "icon": "https://www.faviconextractor.com/favicon/apivault.dev"
         }
       ]
     },
@@ -597,109 +590,53 @@ export const mockData = {
       "order": 23,
       "sites": [
         {
-          "id": "site-122",
-          "name": "多邻国 - 世上最佳的日语学习途径",
-          "url": "http://www.duolingo.cn/learn",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=duolingo.cn"
-        },
-        {
           "id": "site-123",
-          "name": "帐户 | vSVpXbGvwR@protonmail.com | ProtonMail",
+          "name": "protonmail",
           "url": "https://mail.protonmail.com/account",
-          "description": "",
+          "description": "邮箱",
           "icon": "https://www.google.com/s2/favicons?domain=protonmail.com"
-        },
-        {
-          "id": "site-124",
-          "name": "Client Area - Freenom",
-          "url": "https://my.freenom.com/clientarea.php?action=domaindetails&id=1137007673#tab3",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=my.freenom.com"
-        },
-        {
-          "id": "site-125",
-          "name": "官网地址发布页 - 飞鸟云机场",
-          "url": "https://fnyun.gitbook.io/fabu/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=fnyun.gitbook.io"
-        },
-        {
-          "id": "site-126",
-          "name": "Longman Dictionary | Page Not Found (404)",
-          "url": "https://www.ldoceonline.com/search/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=ldoceonline.com"
         },
         {
           "id": "site-127",
           "name": "Exercism",
-          "url": "https://exercism.org/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=exercism.org"
+          "url": "https://exercism.org",
+          "description": "在线练习",
+          "icon": "https://www.faviconextractor.com/favicon/exercism.org"
         },
         {
           "id": "site-128",
-          "name": "力扣（LeetCode）官网 - 全球极客挚爱的技术成长平台",
-          "url": "https://leetcode-cn.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=leetcode-cn.com"
+          "name": "力扣",
+          "url": "https://leetcode-cn.com",
+          "description": "力扣",
+          "icon": "https://www.faviconextractor.com/favicon/leetcode-cn.com"
         },
         {
           "id": "site-129",
-          "name": "Kaggle: Your Machine Learning and Data Science Community",
-          "url": "https://www.kaggle.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=kaggle.com"
+          "name": "Kaggle",
+          "url": "https://www.kaggle.com",
+          "description": "Kaggle",
+          "icon": "https://www.faviconextractor.com/favicon/www.kaggle.com"
         },
         {
           "id": "site-130",
-          "name": "电鸭社区-专注远程工作招聘交流-远程工作，从电鸭开始",
-          "url": "https://eleduck.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=eleduck.com"
+          "name": "电鸭社区",
+          "url": "https://eleduck.com",
+          "description": "专注远程工作招聘交流",
+          "icon": "https://www.faviconextractor.com/favicon/eleduck.com"
         },
         {
           "id": "site-131",
-          "name": "Reddit - Dive into anything",
-          "url": "https://www.reddit.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=reddit.com"
-        },
-        {
-          "id": "site-132",
-          "name": "登入到Hostinger控制面板 - Hostinger",
-          "url": "https://www.hostinger.com.hk/cpanel-login",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=hostinger.com.hk"
-        },
-        {
-          "id": "site-133",
-          "name": "Home - TwinRed",
-          "url": "https://www.twinred.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=twinred.com"
-        },
-        {
-          "id": "site-134",
-          "name": "Websites @ Adsterra",
-          "url": "https://beta.publishers.adsterra.com/websites",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=beta.publishers.adsterra.com"
-        },
-        {
-          "id": "site-135",
-          "name": "Remote Jobs in Programming, Design, Sales and more #OpenSalaries",
-          "url": "https://remoteok.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=remoteok.com"
+          "name": "Reddit",
+          "url": "https://www.reddit.com",
+          "description": "Reddit",
+          "icon": "https://www.faviconextractor.com/favicon/www.reddit.com"
         },
         {
           "id": "site-136",
-          "name": "首页 · FreshRSS",
-          "url": "https://rss.vhcffh.com/i/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=rss.vhcffh.com"
+          "name": "FreshRSS",
+          "url": "https://rss.vhcffh.com",
+          "description": "FreshRSS",
+          "icon": "https://www.faviconextractor.com/favicon/rss.vhcffh.com"
         }
       ]
     },

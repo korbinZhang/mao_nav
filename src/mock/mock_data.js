@@ -345,52 +345,45 @@ export const mockData = {
       "sites": [
         {
           "id": "site-77",
-          "name": "Lexica – beautifule",
-          "url": "https://lexica.art/?q=beautifule",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=lexica.art"
+          "name": "Lexica",
+          "url": "https://lexica.art",
+          "description": "图片",
+          "icon": "https://www.faviconextractor.com/favicon/lexica.art"
         },
         {
           "id": "site-78",
-          "name": "Wallpaper Abyss - HD Wallpapers, Background Images",
-          "url": "https://wall.alphacoders.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=wall.alphacoders.com"
+          "name": "Wallpaper",
+          "url": "https://wall.alphacoders.com",
+          "description": "高清壁纸",
+          "icon": "https://www.faviconextractor.com/favicon/wall.alphacoders.com"
         },
         {
           "id": "site-79",
-          "name": "Anime image and pictures. Desktop and mobile wallpaper.",
-          "url": "https://anime.goodfon.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=anime.goodfon.com"
+          "name": "Anime",
+          "url": "https://anime.goodfon.com",
+          "description": "动物壁纸",
+          "icon": "https://www.faviconextractor.com/favicon/anime.goodfon.com"
         },
         {
           "id": "site-80",
-          "name": "Images | ESA/Hubble",
-          "url": "https://esahubble.org/images/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=esahubble.org"
+          "name": "ESA/Hubble",
+          "url": "https://esahubble.org",
+          "description": "宇宙壁纸",
+          "icon": "https://www.faviconextractor.com/favicon/esahubble.org"
         },
         {
           "id": "site-81",
-          "name": "Awesome Wallpapers - wallhaven.cc",
-          "url": "https://wallhaven.cc/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=wallhaven.cc"
+          "name": "wallhaven.cc",
+          "url": "https://wallhaven.cc",
+          "description": "壁纸",
+          "icon": "https://www.faviconextractor.com/favicon/wallhaven.cc"
         },
         {
           "id": "site-82",
-          "name": "Beautiful Free Images & Pictures | Unsplash",
-          "url": "https://unsplash.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=unsplash.com"
-        },
-        {
-          "id": "site-83",
-          "name": "e621",
-          "url": "https://e621.net/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=e621.net"
+          "name": "Unsplash",
+          "url": "https://unsplash.com",
+          "description": "Free Images",
+          "icon": "https://www.faviconextractor.com/favicon/unsplash.com"
         }
       ]
     },

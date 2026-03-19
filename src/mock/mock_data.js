@@ -771,37 +771,23 @@ export const mockData = {
         {
           "id": "site-153",
           "name": "Kinopio",
-          "url": "https://kinopio.club/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=kinopio.club"
+          "url": "https://kinopio.club",
+          "description": "空间笔记工具，用于收集和连接你的想法、创意和感受。",
+          "icon": "https://www.faviconextractor.com/favicon/kinopio.club"
         },
         {
           "id": "site-154",
           "name": "在线绘图",
           "url": "https://www.aliciaunderhill.xyz/Andala/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=aliciaunderhill.xyz"
-        },
-        {
-          "id": "site-155",
-          "name": "Markdown简历排版工具",
-          "url": "https://resume.mdnice.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=resume.mdnice.com"
+          "description": "对称",
+          "icon": "https://www.faviconextractor.com/favicon/www.aliciaunderhill.xyz"
         },
         {
           "id": "site-156",
-          "name": "未命名绘图 - diagrams.net",
-          "url": "https://app.diagrams.net/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=app.diagrams.net"
-        },
-        {
-          "id": "site-157",
-          "name": "UI Design Color and Style Generator - UIdea",
-          "url": "http://uidea.tools/design/index",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=uidea.tools"
+          "name": "diagrams",
+          "url": "https://app.diagrams.net",
+          "description": "draw.io",
+          "icon": "https://www.faviconextractor.com/favicon/app.diagrams.net"
         }
       ]
     },

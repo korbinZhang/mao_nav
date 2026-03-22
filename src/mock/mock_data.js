@@ -865,64 +865,6 @@ export const mockData = {
       ]
     },
     {
-      "id": "category-31",
-      "name": "其它",
-      "icon": "📦",
-      "order": 31,
-      "sites": [
-        {
-          "id": "site-168",
-          "name": "View Source",
-          "url": "https://neatnik.net/view-source/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=neatnik.net"
-        },
-        {
-          "id": "site-169",
-          "name": "休息片刻",
-          "url": "http://sit.widget4.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=sit.widget4.com"
-        },
-        {
-          "id": "site-170",
-          "name": "inAppBrowser.com",
-          "url": "https://inappbrowser.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=inappbrowser.com"
-        },
-        {
-          "id": "site-171",
-          "name": "全国移动电话卡“一证通查”",
-          "url": "https://getsimnum.caict.ac.cn/#/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=getsimnum.caict.ac.cn"
-        }
-      ]
-    },
-    {
-      "id": "category-32",
-      "name": "网站",
-      "icon": "🌍",
-      "order": 32,
-      "sites": [
-        {
-          "id": "site-172",
-          "name": "What's My Chain Cert?",
-          "url": "https://whatsmychaincert.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=whatsmychaincert.com"
-        },
-        {
-          "id": "site-173",
-          "name": "Certificate - FreeSSL.org",
-          "url": "https://freessl.org/certificate",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=freessl.org"
-        }
-      ]
-    },
-    {
       "id": "category-34",
       "name": "临时",
       "icon": "⏳",

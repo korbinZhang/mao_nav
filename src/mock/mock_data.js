@@ -849,25 +849,18 @@ export const mockData = {
       "order": 30,
       "sites": [
         {
-          "id": "site-165",
-          "name": "Simple.css Demo | Simple.css",
-          "url": "https://simplecss.org/demo",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=simplecss.org"
-        },
-        {
           "id": "site-166",
           "name": "8086 Emulator",
           "url": "https://yjdoc2.github.io/8086-emulator-web/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=yjdoc2.github.io"
+          "description": "8086在线模拟器",
+          "icon": "https://www.faviconextractor.com/favicon/yjdoc2.github.io"
         },
         {
           "id": "site-167",
           "name": "Compiler Explorer",
-          "url": "https://gcc.godbolt.org/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=gcc.godbolt.org"
+          "url": "https://gcc.godbolt.org",
+          "description": "汇编在线模拟器",
+          "icon": "https://static.ce-cdn.net/favicon.ico"
         }
       ]
     },

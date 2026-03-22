@@ -823,29 +823,22 @@ export const mockData = {
           "id": "site-161",
           "name": "EveryCircuit",
           "url": "https://everycircuit.com/app",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=everycircuit.com"
-        },
-        {
-          "id": "site-162",
-          "name": "实用工具大全_电子线路计算_电阻计算_元器件参数计算_在线工具",
-          "url": "https://tool.520101.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=tool.520101.com"
+          "description": "在线模拟电路",
+          "icon": "https://www.faviconextractor.com/favicon/everycircuit.com"
         },
         {
           "id": "site-163",
           "name": "Diode — Build, program, and simulate hardware",
-          "url": "https://www.withdiode.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=withdiode.com"
+          "url": "https://www.withdiode.com",
+          "description": "硬件电路模拟",
+          "icon": "https://www.faviconextractor.com/favicon/www.withdiode.com"
         },
         {
           "id": "site-164",
           "name": "Wokwi - Online Arduino and ESP32 Simulator",
-          "url": "https://wokwi.com/",
-          "description": "",
-          "icon": "https://www.google.com/s2/favicons?domain=wokwi.com"
+          "url": "https://wokwi.com",
+          "description": "在线单片机模拟器",
+          "icon": "https://www.faviconextractor.com/favicon/wokwi.com"
         }
       ]
     },
